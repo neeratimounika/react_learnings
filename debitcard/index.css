@@ -1,0 +1,10 @@
+.bg{
+    background-color: #d6d6c2;
+    height: 100%;
+    width: 28%;
+    border-color: #000;
+    border: 1px solid;
+    border-radius: 10pz;
+    margin-left: 300px;
+    margin-top: 80px;
+}
